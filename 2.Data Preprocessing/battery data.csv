@@ -1,0 +1,61 @@
+Serial Number,Battery Voltage (V),Visual Inspection,Starting,Lights and Electronics,Battery Age (Years),Battery Age (Months),Maintenance History,Specific Gravity,Capacity Range (Ah),Open Circuit Voltage (V),Acid Level Check,Charge Needed,Maintenance Required,Status
+1,12.7,No damage,Smooth cranking,Normal,2,0,Regular maintenance,1.25,100,12.8,Normal,No,No,Battery OK
+2,12.2,Corrosion present,Slow cranking,Dim lights,4,0,No maintenance,1.21,85,12.2,Low,Yes,Yes,Low Charge
+3,12.6,No damage,Smooth cranking,Normal,1,0,Regular maintenance,1.26,105,12.7,Normal,No,No,Battery OK
+4,11.8,Corrosion present,Struggling cranking,Flickering lights,5,0,Neglected,1.18,70,11.9,Low,Yes,No,Weak Battery
+5,12.9,No damage,Smooth cranking,Normal,0,6,Regular maintenance,1.27,110,13,Normal,No,No,Battery OK
+6,12.3,Corrosion present,Slow cranking,Dim lights,3,0,Irregular maintenance,1.24,95,12.4,Low,Yes,Yes,Low Charge
+7,12.5,Damage present,Struggling cranking,Flickering lights,2,6,Regular maintenance,1.24,90,12.6,Low,Yes,No,Weak Battery
+8,12.8,No damage,Smooth cranking,Normal,0,9,Regular maintenance,1.255,115,12.9,Normal,No,No,Battery OK
+9,11.7,Damage present,Struggling cranking,Dim lights,4,0,Neglected,1.2,80,11.8,Low,Yes,No,Weak Battery
+10,12.4,No damage,Smooth cranking,Normal,1,0,Regular maintenance,1.23,100,12.5,Normal,No,No,Battery OK
+11,12.1,Corrosion present,Slow cranking,Dim lights,3,6,Irregular maintenance,1.215,88,12.2,Low,Yes,Yes,Low Charge
+12,12.6,No damage,Smooth cranking,Normal,0,11,Regular maintenance,1.26,100,12.7,Normal,No,No,Battery OK
+13,12.3,Corrosion present,Struggling cranking,Dim lights,2,0,Regular maintenance,1.235,92,12.4,Low,Yes,No,Weak Battery
+14,12.5,No damage,Smooth cranking,Normal,0,8,Regular maintenance,1.24,98,12.6,Normal,No,No,Battery OK
+15,12,Corrosion present,Slow cranking,Dim lights,4,1,Neglected,1.19,75,12.1,Low,Yes,Yes,Low Charge
+16,12.7,Damage present,Struggling cranking,Flickering lights,1,6,Regular maintenance,1.245,105,12.8,Low,Yes,No,Weak Battery
+17,12.9,No damage,Smooth cranking,Normal,0,7,Regular maintenance,1.275,112,13,Normal,No,No,Battery OK
+18,11.9,Corrosion present,Struggling cranking,Dim lights,3,6,Irregular maintenance,1.205,84,12,Low,Yes,Yes,Low Charge
+19,12.8,No damage,Smooth cranking,Normal,0,10,Regular maintenance,1.255,102,12.9,Normal,No,No,Battery OK
+20,11.6,Damage present,Struggling cranking,Flickering lights,2,0,Neglected,1.18,70,11.7,Low,Yes,No,Weak Battery
+21,12.4,No damage,Smooth cranking,Normal,1,6,Regular maintenance,1.265,98,12.5,Normal,No,No,Battery OK
+22,11.8,Corrosion present,Slow cranking,Dim lights,3,8,Irregular maintenance,1.19,75,12,Low,Yes,Yes,Low Charge
+23,12.7,Damage present,Struggling cranking,Flickering lights,1,9,Regular maintenance,1.245,105,12.8,Low,Yes,No,Weak Battery
+24,12.6,No damage,Smooth cranking,Normal,0,3,Regular maintenance,1.26,100,12.7,Normal,No,No,Battery OK
+25,12.3,Corrosion present,Struggling cranking,Dim lights,2,5,Regular maintenance,1.235,92,12.4,Low,Yes,No,Weak Battery
+26,12.5,No damage,Smooth cranking,Normal,0,8,Regular maintenance,1.24,98,12.6,Normal,No,No,Battery OK
+27,12,Corrosion present,Slow cranking,Dim lights,4,1,Neglected,1.19,75,12.1,Low,Yes,Yes,Low Charge
+28,12.7,Damage present,Struggling cranking,Flickering lights,1,6,Regular maintenance,1.245,105,12.8,Low,Yes,No,Weak Battery
+29,12.9,No damage,Smooth cranking,Normal,0,7,Regular maintenance,1.275,112,13,Normal,No,No,Battery OK
+30,11.9,Corrosion present,Struggling cranking,Dim lights,3,6,Irregular maintenance,1.205,84,12,Low,Yes,Yes,Low Charge
+31,12.4,No damage,Smooth cranking,Normal,2,2,Regular maintenance,1.23,100,12.5,Normal,No,No,Battery OK
+32,12.1,Corrosion present,Slow cranking,Dim lights,3,11,Irregular maintenance,1.215,88,12.2,Low,Yes,Yes,Low Charge
+33,12.6,No damage,Smooth cranking,Normal,1,3,Regular maintenance,1.26,100,12.7,Normal,No,No,Battery OK
+34,11.9,Corrosion present,Struggling cranking,Dim lights,3,9,Irregular maintenance,1.205,84,12,Low,Yes,Yes,Low Charge
+35,12.8,No damage,Smooth cranking,Normal,0,5,Regular maintenance,1.255,102,12.9,Normal,No,No,Battery OK
+36,12.7,Damage present,Struggling cranking,Flickering lights,1,10,Regular maintenance,1.245,105,12.8,Low,Yes,No,Weak Battery
+37,12.9,No damage,Smooth cranking,Normal,0,6,Regular maintenance,1.275,112,13,Normal,No,No,Battery OK
+38,11.9,Corrosion present,Struggling cranking,Dim lights,3,4,Irregular maintenance,1.205,84,12,Low,Yes,Yes,Low Charge
+39,12.8,No damage,Smooth cranking,Normal,0,11,Regular maintenance,1.255,102,12.9,Normal,No,No,Battery OK
+40,12.2,Corrosion present,Slow cranking,Dim lights,2,7,Irregular maintenance,1.215,88,12.3,Low,Yes,Yes,Low Charge
+41,12.5,No damage,Smooth cranking,Normal,3,8,Regular maintenance,1.24,98,12.6,Normal,No,No,Battery OK
+42,12,Corrosion present,Slow cranking,Dim lights,4,2,Irregular maintenance,1.21,85,12.1,Low,Yes,Yes,Low Charge
+43,12.6,No damage,Smooth cranking,Normal,1,11,Regular maintenance,1.25,100,12.7,Normal,No,No,Battery OK
+44,11.8,Corrosion present,Struggling cranking,Flickering lights,5,4,Neglected,1.19,75,11.9,Low,Yes,No,Weak Battery
+45,12.9,No damage,Smooth cranking,Normal,0,9,Regular maintenance,1.255,102,13,Normal,No,No,Battery OK
+46,12.3,Corrosion present,Slow cranking,Dim lights,3,2,Irregular maintenance,1.22,90,12.4,Low,Yes,Yes,Low Charge
+47,12.5,Damage present,Struggling cranking,Flickering lights,2,11,Regular maintenance,1.23,95,12.6,Low,Yes,No,Weak Battery
+48,12.8,No damage,Smooth cranking,Normal,0,8,Regular maintenance,1.26,100,12.9,Normal,No,No,Battery OK
+49,11.7,Damage present,Struggling cranking,Dim lights,4,6,Neglected,1.2,80,11.8,Low,Yes,No,Weak Battery
+50,12.4,No damage,Smooth cranking,Normal,1,4,Regular maintenance,1.21,85,12.5,Normal,No,No,Battery OK
+51,12,Corrosion present,Slow cranking,Dim lights,3,7,Irregular maintenance,1.215,88,12.1,Low,Yes,Yes,Low Charge
+52,12.6,No damage,Smooth cranking,Normal,1,1,Regular maintenance,1.25,100,12.7,Normal,No,No,Battery OK
+53,11.9,Corrosion present,Struggling cranking,Dim lights,3,5,Irregular maintenance,1.205,84,12,Low,Yes,Yes,Low Charge
+54,12.8,No damage,Smooth cranking,Normal,0,7,Regular maintenance,1.255,102,12.9,Normal,No,No,Battery OK
+55,12.3,Corrosion present,Slow cranking,Dim lights,3,9,Irregular maintenance,1.22,90,12.4,Low,Yes,Yes,Low Charge
+56,12.7,Damage present,Struggling cranking,Flickering lights,1,6,Regular maintenance,1.23,95,12.8,Low,Yes,No,Weak Battery
+57,12.9,No damage,Smooth cranking,Normal,0,10,Regular maintenance,1.26,100,13,Normal,No,No,Battery OK
+58,12.2,Corrosion present,Slow cranking,Dim lights,2,3,Irregular maintenance,1.215,88,12.3,Low,Yes,Yes,Low Charge
+59,12.6,No damage,Smooth cranking,Normal,1,5,Regular maintenance,1.24,98,12.7,Normal,No,No,Battery OK
+60,12.1,Corrosion present,Slow cranking,Dim lights,3,1,Irregular maintenance,1.205,84,12.2,Low,Yes,Yes,Low Charge

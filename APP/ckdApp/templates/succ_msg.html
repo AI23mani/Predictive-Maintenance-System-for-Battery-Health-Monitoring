@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block body_block %}
+{% load static %}
+<div class="jumbotron">
+    <h1>Predictive Maintenance System for Battery Health Monitoring </h1>
+    <div class="fieldWrapper">
+      <h2>For the values</h2>
+      <p>Open_Circuit_Voltage_input:{{data_ocv}}</p>
+      <p>Maintenance_History_Neglected_input:{{data_mh}}</p>
+      <p>Maintenance_History_No_maintenance_input:{{data_mhm}}</p>
+      <p>Maintenance_History_Regular_maintenance_input:{{data_mhr}}</p>
+      <p>Acid_Level_Check_Normal_input:{{data_acl}}</p>
+      <br>
+      {% if out == 1 %}
+        <p>You <b>will have</b>  Maintenance Required in the future: <b>yes</b></p>
+      {% else %}
+        <p>You <b>will not</b> have Maintenance Required in the future:<b>No</b></p>
+
+      {% endif %}
+
+    <a  href="{% url 'ckdApp:ckd' %}">Predictive Maintenance System for Battery Health Monitoring</a>
+    <br>
+</div>
+{% endblock %}
